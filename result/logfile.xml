@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Application Test Suite" tests="6" assertions="61" failures="0" errors="0" time="2.734733">
+    <testsuite name="MasterCard\Api\McaidAnalytics\CardsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Aid-Analytics-Php/workspace/generated-code/mcaid-analytics/php/sdk/Test/MasterCard/Api/McaidAnalytics/CardsTest.php" tests="1" assertions="5" failures="0" errors="0" time="0.624425">
+      <testcase name="test_get_cards_test" class="MasterCard\Api\McaidAnalytics\CardsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Aid-Analytics-Php/workspace/generated-code/mcaid-analytics/php/sdk/Test/MasterCard/Api/McaidAnalytics/CardsTest.php" line="54" assertions="5" time="0.624425"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\McaidAnalytics\DevicesTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Aid-Analytics-Php/workspace/generated-code/mcaid-analytics/php/sdk/Test/MasterCard/Api/McaidAnalytics/DevicesTest.php" tests="1" assertions="6" failures="0" errors="0" time="0.543852">
+      <testcase name="test_get_devices_test" class="MasterCard\Api\McaidAnalytics\DevicesTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Aid-Analytics-Php/workspace/generated-code/mcaid-analytics/php/sdk/Test/MasterCard/Api/McaidAnalytics/DevicesTest.php" line="54" assertions="6" time="0.543852"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\McaidAnalytics\MerchantsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Aid-Analytics-Php/workspace/generated-code/mcaid-analytics/php/sdk/Test/MasterCard/Api/McaidAnalytics/MerchantsTest.php" tests="1" assertions="9" failures="0" errors="0" time="0.348793">
+      <testcase name="test_get_merchants_test" class="MasterCard\Api\McaidAnalytics\MerchantsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Aid-Analytics-Php/workspace/generated-code/mcaid-analytics/php/sdk/Test/MasterCard/Api/McaidAnalytics/MerchantsTest.php" line="54" assertions="9" time="0.348793"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\McaidAnalytics\ProductsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Aid-Analytics-Php/workspace/generated-code/mcaid-analytics/php/sdk/Test/MasterCard/Api/McaidAnalytics/ProductsTest.php" tests="1" assertions="4" failures="0" errors="0" time="0.447795">
+      <testcase name="test_get_products_test" class="MasterCard\Api\McaidAnalytics\ProductsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Aid-Analytics-Php/workspace/generated-code/mcaid-analytics/php/sdk/Test/MasterCard/Api/McaidAnalytics/ProductsTest.php" line="54" assertions="4" time="0.447795"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\McaidAnalytics\ProgramsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Aid-Analytics-Php/workspace/generated-code/mcaid-analytics/php/sdk/Test/MasterCard/Api/McaidAnalytics/ProgramsTest.php" tests="1" assertions="9" failures="0" errors="0" time="0.274071">
+      <testcase name="test_get_programs_test" class="MasterCard\Api\McaidAnalytics\ProgramsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Aid-Analytics-Php/workspace/generated-code/mcaid-analytics/php/sdk/Test/MasterCard/Api/McaidAnalytics/ProgramsTest.php" line="54" assertions="9" time="0.274071"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\McaidAnalytics\TransactionsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Aid-Analytics-Php/workspace/generated-code/mcaid-analytics/php/sdk/Test/MasterCard/Api/McaidAnalytics/TransactionsTest.php" tests="1" assertions="28" failures="0" errors="0" time="0.495797">
+      <testcase name="test_get_transactions_test" class="MasterCard\Api\McaidAnalytics\TransactionsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Aid-Analytics-Php/workspace/generated-code/mcaid-analytics/php/sdk/Test/MasterCard/Api/McaidAnalytics/TransactionsTest.php" line="58" assertions="28" time="0.495797"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
