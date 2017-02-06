@@ -1,0 +1,18 @@
+MasterCard\Api\McaidAnalytics\Cards
+ [x] get cards test
+
+MasterCard\Api\McaidAnalytics\Devices
+ [x] get devices test
+
+MasterCard\Api\McaidAnalytics\Merchants
+ [x] get merchants test
+
+MasterCard\Api\McaidAnalytics\Products
+ [x] get products test
+
+MasterCard\Api\McaidAnalytics\Programs
+ [x] get programs test
+
+MasterCard\Api\McaidAnalytics\Transactions
+ [x] get transactions test
+

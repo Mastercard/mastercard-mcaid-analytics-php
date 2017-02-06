@@ -1,0 +1,107 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 6
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\CardsTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\CardsTest",
+    "test": "MasterCard\\Api\\McaidAnalytics\\CardsTest::test_get_cards_test"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\CardsTest",
+    "test": "MasterCard\\Api\\McaidAnalytics\\CardsTest::test_get_cards_test",
+    "status": "pass",
+    "time": 1.5130372047424,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\DevicesTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\DevicesTest",
+    "test": "MasterCard\\Api\\McaidAnalytics\\DevicesTest::test_get_devices_test"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\DevicesTest",
+    "test": "MasterCard\\Api\\McaidAnalytics\\DevicesTest::test_get_devices_test",
+    "status": "pass",
+    "time": 0.70399689674377,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\MerchantsTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\MerchantsTest",
+    "test": "MasterCard\\Api\\McaidAnalytics\\MerchantsTest::test_get_merchants_test"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\MerchantsTest",
+    "test": "MasterCard\\Api\\McaidAnalytics\\MerchantsTest::test_get_merchants_test",
+    "status": "pass",
+    "time": 0.48322296142578,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\ProductsTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\ProductsTest",
+    "test": "MasterCard\\Api\\McaidAnalytics\\ProductsTest::test_get_products_test"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\ProductsTest",
+    "test": "MasterCard\\Api\\McaidAnalytics\\ProductsTest::test_get_products_test",
+    "status": "pass",
+    "time": 0.47356295585632,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\ProgramsTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\ProgramsTest",
+    "test": "MasterCard\\Api\\McaidAnalytics\\ProgramsTest::test_get_programs_test"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\ProgramsTest",
+    "test": "MasterCard\\Api\\McaidAnalytics\\ProgramsTest::test_get_programs_test",
+    "status": "pass",
+    "time": 0.37156295776367,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\TransactionsTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\TransactionsTest",
+    "test": "MasterCard\\Api\\McaidAnalytics\\TransactionsTest::test_get_transactions_test"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\TransactionsTest",
+    "test": "MasterCard\\Api\\McaidAnalytics\\TransactionsTest::test_get_transactions_test",
+    "status": "pass",
+    "time": 0.65097808837891,
+    "trace": [],
+    "message": "",
+    "output": ""
+}

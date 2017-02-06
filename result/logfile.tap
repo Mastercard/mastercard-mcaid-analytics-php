@@ -1,0 +1,8 @@
+TAP version 13
+ok 1 - MasterCard\Api\McaidAnalytics\CardsTest::test_get_cards_test
+ok 2 - MasterCard\Api\McaidAnalytics\DevicesTest::test_get_devices_test
+ok 3 - MasterCard\Api\McaidAnalytics\MerchantsTest::test_get_merchants_test
+ok 4 - MasterCard\Api\McaidAnalytics\ProductsTest::test_get_products_test
+ok 5 - MasterCard\Api\McaidAnalytics\ProgramsTest::test_get_programs_test
+ok 6 - MasterCard\Api\McaidAnalytics\TransactionsTest::test_get_transactions_test
+1..6
