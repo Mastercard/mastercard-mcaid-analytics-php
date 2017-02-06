@@ -1,0 +1,107 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 6
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\CardsTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\CardsTest",
+    "test": "Warning"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\CardsTest",
+    "test": "Warning",
+    "status": "warning",
+    "time": 0.0013689994812012,
+    "trace": [],
+    "message": "No tests found in class \"MasterCard\\Api\\McaidAnalytics\\CardsTest\".\n",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\DevicesTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\DevicesTest",
+    "test": "Warning"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\DevicesTest",
+    "test": "Warning",
+    "status": "warning",
+    "time": 7.2956085205078e-5,
+    "trace": [],
+    "message": "No tests found in class \"MasterCard\\Api\\McaidAnalytics\\DevicesTest\".\n",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\MerchantsTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\MerchantsTest",
+    "test": "Warning"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\MerchantsTest",
+    "test": "Warning",
+    "status": "warning",
+    "time": 6.6041946411133e-5,
+    "trace": [],
+    "message": "No tests found in class \"MasterCard\\Api\\McaidAnalytics\\MerchantsTest\".\n",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\ProductsTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\ProductsTest",
+    "test": "Warning"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\ProductsTest",
+    "test": "Warning",
+    "status": "warning",
+    "time": 6.6995620727539e-5,
+    "trace": [],
+    "message": "No tests found in class \"MasterCard\\Api\\McaidAnalytics\\ProductsTest\".\n",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\ProgramsTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\ProgramsTest",
+    "test": "Warning"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\ProgramsTest",
+    "test": "Warning",
+    "status": "warning",
+    "time": 6.5088272094727e-5,
+    "trace": [],
+    "message": "No tests found in class \"MasterCard\\Api\\McaidAnalytics\\ProgramsTest\".\n",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\TransactionsTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\TransactionsTest",
+    "test": "Warning"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\McaidAnalytics\\TransactionsTest",
+    "test": "Warning",
+    "status": "warning",
+    "time": 6.4849853515625e-5,
+    "trace": [],
+    "message": "No tests found in class \"MasterCard\\Api\\McaidAnalytics\\TransactionsTest\".\n",
+    "output": ""
+}
